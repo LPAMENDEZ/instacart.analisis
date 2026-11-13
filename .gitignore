@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/*.csv
 material/
+
+# Archivo procesado mayor de 50 MB: se regenera ejecutando notebooks/pandas_labs.ipynb
+data/processed/instacart_maestra.parquet
